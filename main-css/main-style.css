@@ -582,6 +582,7 @@ button:focus {
     top: 3px;
     position: relative;
     display: inline-block;
+    /* color: #ffffff; */
     color: #bbb;
     margin: 0px 8px;
 }
@@ -602,7 +603,8 @@ button:focus {
     margin-top: 5px;
     transition: all 0.5s;
     font-size: 14px;
-    color: #9a9a9a;
+    color: #ffffff;
+    /* color: #9a9a9a */
 }
 
 .work_menu li a.active {
